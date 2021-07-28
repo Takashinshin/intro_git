@@ -7,3 +7,4 @@ git status
 git diff
 git branch feature
 git branch feature2
+feature branchで再度pushします。
